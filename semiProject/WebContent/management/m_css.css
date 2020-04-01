@@ -1,0 +1,280 @@
+@charset "UTF-8";
+
+body {
+   background: #ecf0f7;
+   font-size: 14px;
+   word-spacing: -1px;
+}
+
+ul {
+   list-style-type: none;
+}
+
+ul li {
+   background: #fff;
+}
+
+h3 {
+   margin: 0 0 20px;
+}
+
+a {
+   border: 1px solid #98989b;
+   padding: 4px;
+   color: black;
+   text-decoration: none;
+}
+
+a:hover, a:focus {
+   text-decoration: none !important;
+}
+
+table {
+   margin-left: -1px;
+   border-collapse: collapse !important;
+   width: 100%;
+   max-width: 100%;
+   margin-bottom: 20px;
+   border: 1px solid #ddd;
+   line-height: 1.5;
+   border-spacing: 0;
+}
+
+
+strong{
+   color: red;
+}
+
+input{
+   padding-top: 7px;
+   padding-bottom: 5px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+  	border: 2px solid #bcbcbc;
+	cursor: pointer;
+   	vertical-align: middle;    
+    background: #fff;
+}
+
+
+
+table>thead>tr>th, table>tbody>tr>th, table>tfoot>tr>th, table>thead>tr>td,
+   table>tbody>tr>td, table>tfoot>tr>td {
+   padding: 9px;
+   line-height: 1.42857143;
+   border-top: 1px solid #ddd;
+   border-bottom-width: 2px;
+   vertical-align: middle !important;   
+   
+}
+
+table>thead>tr>th {
+   vertical-align: bottom;
+   border-bottom: 2px solid #ddd;
+}
+
+table>tbody+tbody {
+   border-top: 2px solid #ddd;
+}
+
+th {
+   background: rgb(231, 231, 231);
+}
+
+.board_t1 th {
+   width: 13%;
+}
+
+.board_t1 td {
+   padding: 8px 20px;
+}
+
+label {
+   display: inline-block;
+   max-width: 100%;
+   margin-bottom: 5px;
+   font-weight: bold;
+}
+
+.fSelect {
+   display: inline;
+   height: 32px;
+   margin: 0;
+   padding: 0 6px;
+   border: 1px solid #d4d4d4;
+   color: #2e3039;
+   font-size: 14px;
+   line-height: 30px;
+}
+
+.board_t1, .board_t2 {
+   width: 95%;
+   border: 1px solid black;
+   margin: 0 40px 30px 0;
+   padding: 30px 20px;
+   border: 1px solid black;
+}
+
+.board_t2{
+   padding-top: 10px !important;
+}
+
+.btnDate {
+   min-width: 46px;
+   height: 28px;
+   padding: 10px;
+   font-size: 13px;
+   line-height: 26px;
+   color: #2e3039;
+   border: 1px solid #98989b;
+   background-color: #fff;
+}
+
+.btnDate:hover, .btnDate.selected {
+   color: #fff;
+   border-color: #55a0ff;
+   background-color: #55a0ff;
+}
+
+.glabel {
+   margin: 0 28px 0 0;
+}
+
+.gLabel .fChk {
+    vertical-align: text-top;
+}
+
+.gLeft {
+   text-align: left;
+}
+
+.gRight {
+   text-align: right;
+}
+
+.canceltype{
+	 display: inline-block;
+    width: 100%;
+    padding: 0 15px;
+    font-size: 14px;
+    line-height: 38px;
+    color: #898989;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+}
+
+#footer {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   z-index: 300;
+   width: 100%;
+   margin: 0;
+   padding: 15px 0;
+   text-align: center;
+   border-top: 1px solid #dedede;
+   background-color: #fafafa;
+}
+
+.mState {
+   margin: 10px 0;
+   line-height: 20px;
+}
+
+.mButton.gCenter {
+   position: relative;
+   text-align: center;
+}
+
+.mButton {
+   margin: 20px 0;
+   padding: 0 4px 0 0;
+}
+
+.btnSearch {
+   min-width: 84px;
+   height: 36px;
+   padding: 5px 20px 5px;
+   color: #fff;
+   line-height: 34px;
+   border: 1px solid transparent;
+   background-color: #55a0ff;
+   margin: 0 0 0 10px;
+}
+
+.mBoard {
+    position: relative;
+    overflow: auto;
+    border-right: 1px solid #d9dadc;
+    border-left: 1px solid #d9dadc;
+    height: 1% \0/;
+}
+
+.mBoard>table{
+    border: 0;
+}
+
+.mCtrl {
+    padding: 10px 15px;
+    border: 1px solid #dedede;
+    line-height: 21px;
+    background: #fff;
+    padding-right: 52px;
+    min-height: 22px;
+}
+
+.btnNormal {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    white-space: nowrap;
+    box-sizing: border-box;
+    height: 28x;
+    padding: 1px 6px;
+    line-height: 28px;
+    border: 1px solid #98989b;
+}
+
+.deliverybtn{
+	background: gray;
+	color: white;
+}
+
+.mPaginate {
+    margin: 25px 0 0;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.mPaginate>a{
+   border: none;
+}
+
+/* select 창  css  */
+
+
+#wrap {
+    padding: 0 20px 77px !important;
+}
+
+.btnEm {
+    display: inline-block;
+    min-width: 140px;
+    height: 40px;
+    padding: 0 5px;
+    font-size: 18px;
+    line-height: 40px;
+    color: #55a0ff;
+    font-weight: normal;
+    box-sizing: border-box;
+    border: 1px solid #55a0ff;
+    background: #fff;
+    -webkit-transition: .2s ease-out;
+    transition: .2s ease-out;
+}

@@ -1,0 +1,116 @@
+/*더미파일 구글로 대체함 */
+@import url('https://fonts.googleapis.com/css?family=Lora'); /* font-family: 'Lora', serif; */
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src: url(http://coin.webtro.co.kr/font/NotoSansKR-Thin.woff2) format('woff2'),
+       url(http://coin.webtro.co.kr/font/NotoSansKR-Thin.woff) format('woff'),
+       url(http://coin.webtro.co.kr/font/NotoSansKR-Thin.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://coin.webtro.co.kr/font/NotoSansKR-Light.woff2) format('woff2'),
+       url(http://coin.webtro.co.kr/font/NotoSansKR-Light.woff) format('woff'),
+       url(http://coin.webtro.co.kr/font/NotoSansKR-Light.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(http://coin.webtro.co.kr/font/NotoSansKR-Regular.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Regular.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Regular.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 500;
+   src: url(http://coin.webtro.co.kr/font/NotoSansKR-Medium.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Medium.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Medium.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 600;
+   src: url(http://coin.webtro.co.kr/font/NotoSansKR-Bold.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Bold.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Bold.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 900;
+   src: url(http://coin.webtro.co.kr/font/NotoSansKR-Black.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Black.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSansKR-Black.otf) format('opentype');
+ }
+
+
+
+/**/
+
+
+@font-face {
+	font-family: 'Noto Serif KR';
+	font-style: normal;
+	font-weight: 100;
+  src: url(http://coin.webtro.co.kr/font/NotoSerifKR-ExtraLight.woff2) format('woff2'),
+       url(http://coin.webtro.co.kr/font/NotoSerifKR-ExtraLight.woff) format('woff'),
+       url(http://coin.webtro.co.kr/font/NotoSerifKR-ExtraLight.otf) format('opentype');
+}
+@font-face {
+	font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://coin.webtro.co.kr/font/NotoSerifKR-Light.woff2) format('woff2'),
+       url(http://coin.webtro.co.kr/font/NotoSerifKR-Light.woff) format('woff'),
+       url(http://coin.webtro.co.kr/font/NotoSerifKR-Light.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(http://coin.webtro.co.kr/font/NotoSerifKR-Regular.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Regular.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Regular.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-weight: 500;
+   src: url(http://coin.webtro.co.kr/font/NotoSerifKR-Medium.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Medium.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Medium.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-weight: 600;
+   src: url(http://coin.webtro.co.kr/font/NotoSerifKR-Bold.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Bold.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Bold.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-weight: 900;
+   src: url(http://coin.webtro.co.kr/font/NotoSerifKR-Black.woff2) format('woff2'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Black.woff) format('woff'),
+        url(http://coin.webtro.co.kr/font/NotoSerifKR-Black.otf) format('opentype');
+ }
+  
+
+@font-face {
+	font-family: 'Philosopher', sans-serif;
+	font-style: normal;
+	font-weight:400;
+	src: url(http://coin.webtro.co.kr/font/Philosopher-Regular.woff2) format('woff2'),
+		url(http://coin.webtro.co.kr/font/Philosopher-Regular.woff) format('woff'),
+		url(http://coin.webtro.co.kr/font/Philosopher-Regular.otf) format('opentype');
+}
